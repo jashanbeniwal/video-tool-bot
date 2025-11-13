@@ -1,0 +1,12 @@
+python-telegram-bot==20.7
+ffmpeg-python==0.2.0
+moviepy==1.0.3
+pymediainfo==6.1.0
+pysrt==1.1.2
+py7zr==0.20.5
+pillow==10.0.1
+redis==5.0.1
+celery==5.3.4
+aiofiles==23.2.1
+python-multipart==0.0.6
+psutil==5.9.6
